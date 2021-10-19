@@ -1,0 +1,24 @@
+.hight-set img{
+    height: 550px;
+}
+
+.card-style{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.active-card-style:hover{
+    box-shadow: 10px 10px 10px gray;
+    transition-duration: 1s;
+
+
+}
+
+@media only screen and (max-width: 720px) {
+    .card-style{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    
+}

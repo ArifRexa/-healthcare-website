@@ -1,0 +1,25 @@
+.services-card-style{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.card-centering{
+    display: block;
+    margin: auto;
+}
+
+.btn-position{
+    margin-left: 12.5%;
+}
+
+
+@media only screen and (max-width: 720px) {
+    .services-card-style{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+    }
+
+    
+}

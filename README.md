@@ -1,70 +1,30 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# KBO Hospital
 
-## Available Scripts
+To get services and know about us visit out website [Click Here](https://kbo-hospital.web.app/)
+ 
+# About KBO Hospital
 
-In the project directory, you can run:
+## KBO HOSPITAL LIMITED
+Opening its doors in August 2006 and situated beside the picturesque Gulshan Lake, this hospital is one of the largest private sector healthcare facilities in Bangladesh. KBO HOSPITAL has the capacity to house over 500 patients and has 12 state of the art operation theatres to cater to the needs of varied patient base.With more than 30 clinical sub specialties, our centres of Excellence like Cardiac, Cancer, Renal, Surgical, Neuroscience, Mother & Child Health and Critical Care Centres are staffed by the most esteemed doctors in their respective fields. Since inception till date (July 2021) we have conducted 420,000 Cardiac Investigations, 55,000 Cardiac Procedures, 14,000 Heart Surgeries with 98% success rate, 39 Kidney Transplant, 295,000 Haemodialysis, 185,000 Radiation Therapy Sessions & 196,000 Health Checkups completed.KBO HOSPITAL has pioneered in many endeavors and has achieved many breakthrough milestones. Transcatheter Aortic Valve Implant (TAVI) procedure for Aortic Stenosis patients, first of its kind in Bangladesh was conducted in KBO HOSPITAL Cardiac Centre, which also prides itself with the lone & pioneer iGS 520 Hybrid Cardio-Neuro Cathlab of the country. The hospital Pathology Laboratory received ISO 15189:2012 Accreditation, as the first hospital of the country. The comprehensive Cancer Care Centre of the hospital has the country’s only Medical Cyclotron to produce radioactive tracer isotope for all centres of the country; it also has the first & only TrueBeam Linear Accelerator providing accurate radiation to ensure less timed precise therapy with minimal side effect. KBO HOSPITAL Renal Centre added Hemo Diafiltration & Bio impedance technology, first time in the country, for patients suffering from kidney diseases. The 3.0T Signa Pioneer Wide Bore MRI in its Radiology & Imaging Centre is also first of its kind in the country.At KBO HOSPITAL, providing our patients with a trusted and compassionate environment for healthcare is central to our mission. We draw strength from our purpose, which is above all to help and to heal. Our physicians, nurses and other caregivers & supporting staff are passionate about providing the right care at the right time, bringing hope and healing to our patients and their families. Patients trust us with their most valuable possession – their lives - and all of our caregivers recognize the immense responsibility that comes with that trust.
 
-### `npm start`
+# Doctors Details
+Here our consultants are very heigh qualified and skilled. They are from UK , Harvard , USA and some others served at other hospitals and etc.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Our Services
+With more than 30 clinical sub specialties, our centres of Excellence like 
+- Cardiac
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Cancer
 
-### `npm test`
+- Renal
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Surgical
 
-### `npm run build`
+- Neuroscience
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Mother & Child Health
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+and Critical Care Centres are staffed by the most esteemed doctors in their respective fields. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  
