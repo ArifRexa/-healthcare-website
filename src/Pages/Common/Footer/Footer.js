@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="footer-style mt-5 bg-primary text-light d-flex justify-content-center align-items-center">
 
                 <div className=" text-center mt-2" fixed="bottom">
-                    <h2>United Hospital Gulshan Location</h2><br />
+                    <h2>KBO Hospital Gulshan Location</h2><br />
                     <h6>
 
                     Plot 15, Road 71, Gulshan,<br />
