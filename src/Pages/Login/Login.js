@@ -2,6 +2,7 @@ import React from 'react';
 import { useHistory, useLocation } from 'react-router';
 import { Form, Button, Container } from 'react-bootstrap';
 import useAuth from '../Hooks/useAuth';
+import "./Login.css"
 
 const Login = () => {
     const { user, error, googleSignIn, gitHubSignIn, handleRegistration, registerNewAccount, loginAccount, handleName, setUserName, handleEmail, handlePassword, toggleHandle, verifyMail, resetPassword, logOut, isLogin } = useAuth();
@@ -56,7 +57,7 @@ const Login = () => {
 
 
                         <Form.Group className="mb-3" controlId="formBasicCheckbox">
-                            <Form.Check onChange={toggleHandle} type="checkbox" label="All ready signed in?" />
+                            <Form.Check onChange={toggleHandle} type="checkbox" label="All ready registered?" />
                         </Form.Group>
                         <p className="text-danger">{error}</p>
                         <Button variant="primary" type="submit">
@@ -64,8 +65,9 @@ const Login = () => {
                         </Button>
                         {
                             isLogin &&
+                            
 
-                            <Button onClick={resetPassword} variant="danger" type="submit">
+                            <Button className="frgt-btn" onClick={resetPassword} variant="danger" type="submit">
                                 Forgate Password?
 
                             </Button>
@@ -76,8 +78,8 @@ const Login = () => {
                     <br />
                     <h4>---------- or sign in with ----------</h4><br />
 
-                    <Button onClick={handleGoogleSignIn} className="me-4" title="Google sign in"> <i className="fab fa-google"></i> Google Sign in</Button>
-                    <Button onClick={handleGitHubSignIn} title="Github sign in"><i className="fab fa-github"></i> GitHub Sign in</Button>
+                    <Button onClick={handleGoogleSignIn}  title="Google sign in"> <i className="fab fa-google"></i> Google Sign in</Button>
+                    <Button onClick={handleGitHubSignIn} className="frgt-btn" title="Github sign in"><i className="fab fa-github"></i> GitHub Sign in</Button>
                 </div>
             </Container>
 
